@@ -2,6 +2,6 @@
 This is my first Github repository
 This is updated line
 <br>
-Author: Shakeel;
+Author: Shakeel Bhatti;
 <br>
-I am married
+I am married with smg
